@@ -1,0 +1,12 @@
+func c(){
+
+
+}
+
+func cc(){   
+
+}
+
+func ccc(){   
+
+}
